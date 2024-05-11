@@ -53,12 +53,3 @@ Evite presentes indesejados
 Aniversário
 Natal
 Agradecimento
-
-
-
-tune
-
-share
-
-
-more_vert
