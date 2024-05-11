@@ -1,4 +1,4 @@
-: Gerador de Sugestões de Presentes com IA
+Gerador de Sugestões de Presentes com IA
 O que é?
 
 Este aplicativo utiliza a inteligência artificial para gerar sugestões de presentes personalizadas com base nas informações que você fornece sobre a pessoa presenteada.
